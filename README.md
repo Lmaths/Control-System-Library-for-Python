@@ -1,4 +1,4 @@
 Control-System-Library-for-Python
 =================================
 
-implement with sympy only
+implement with sympy or pure python only
